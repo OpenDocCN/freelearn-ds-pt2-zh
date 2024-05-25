@@ -26,7 +26,7 @@
 
 ### 其他
 
-*   在我们的 [apachecn/apachecn-ds-zh-pt2](https://github.com/apachecn/apachecn-ds-zh-pt2) github 上提 issue.
+*   在我们的 [apachecn/freelearn-ds-pt2-zh](https://github.com/apachecn/freelearn-ds-pt2-zh) github 上提 issue.
 *   发邮件到 Email: `apachecn@163.com`.
 *   在我们的 [组织学习交流群](https://www.apachecn.org/#/docs/join) 中联系群主/管理员即可.
 
@@ -35,24 +35,24 @@
 ### Docker
 
 ```
-docker pull apachecn0/apachecn-ds-zh-pt2
-docker run -tid -p <port>:80 apachecn0/apachecn-ds-zh-pt2
+docker pull apachecn0/freelearn-ds-pt2-zh
+docker run -tid -p <port>:80 apachecn0/freelearn-ds-pt2-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### PYPI
 
 ```
-pip install apachecn-ds-zh-pt2
-apachecn-ds-zh-pt2 <port>
+pip install freelearn-ds-pt2-zh
+freelearn-ds-pt2-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### NPM
 
 ```
-npm install -g apachecn-ds-zh-pt2
-apachecn-ds-zh-pt2 <port>
+npm install -g freelearn-ds-pt2-zh
+freelearn-ds-pt2-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
