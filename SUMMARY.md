@@ -1,6 +1,4 @@
 +   [Python 数据分析师修炼指南](docs/become-py-da/README.md)
-+   [MIT 18.03 面向初学者的微积分](docs/calc4b-zh/README.md)
-+   [fast.ai 数值线性代数讲义中文版 v2](docs/fastai-num-linalg-v2/README.md)
 +   [Python 数据分析入门指南](docs/get-start-py-da/README.md)
 +   [Python 探索性数据分析实用指南](docs/handson-exp-da-py/README.md)
 +   [Python 仿真建模实用指南](docs/handson-simu-mod-py/README.md)
@@ -16,4 +14,3 @@
 +   [树莓派超算和科学计算教程](docs/raspi-supercomp-sci-prog/README.md)
 +   [Python3 科学计算教程](docs/sci-comp-py3/README.md)
 +   [SciPy 秘籍](docs/sp-cb-fix1/README.md)
-+   [复杂性思维 中文第二版](docs/think-comp-2e-zh/README.md)
