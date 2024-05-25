@@ -18,6 +18,5 @@
 +   [Python 数据分析教程](docs/py-da/README.md)
 +   [Python 数据分析秘籍](docs/py-da-cb/README.md)
 +   [Python 数据可视化秘籍](docs/py-data-vis-cb/README.md)
-+   [树莓派超算和科学计算教程](docs/raspi-supercomp-sci-prog/README.md)
 +   [Python3 科学计算教程](docs/sci-comp-py3/README.md)
 +   [SciPy 秘籍](docs/sp-cb-fix1/README.md)
