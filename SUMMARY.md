@@ -1,6 +1,5 @@
 +   [Python 数据分析师修炼指南](docs/become-py-da/README.md)
 +   [Python 数据可视化指南](docs/data-vis-py/README.md)
-+   [数据可视化的基础知识](docs/dataviz-zh/README.md)
 +   [Python 数据分析入门指南](docs/get-start-py-da/README.md)
 +   [Bokeh 数据可视化实用指南](docs/handson-data-vis-bokeh/README.md)
 +   [Python 探索性数据分析实用指南](docs/handson-exp-da-py/README.md)
